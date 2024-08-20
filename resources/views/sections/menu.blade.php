@@ -20,13 +20,13 @@
                     <a class="nav-link" href="#">INÍCIO</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">SOBRE</a>
+                    <a class="nav-link" href="#">CONTATO</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">QUEM SOMOS</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">VAGAS</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">CONTATO</a>
                 </li>
             </ul>
         </div>
