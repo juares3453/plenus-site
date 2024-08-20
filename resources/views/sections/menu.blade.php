@@ -48,17 +48,17 @@
 
             <ul class="navbar-nav d-flex flex-row">
                 <li class="nav-item me-2 me-lg-0">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" href="bit.ly/FalePlenus">
                         <img src="{{ asset('image/icon_wpp.png') }}" id="icon-social">
                     </a>
                 </li>
                 <li class="nav-item me-2 me-lg-0">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" href="https://www.instagram.com/plenusgestaodetalentos?igsh=MWlyd3RiZmk3b2RjMg==">
                         <img src="{{ asset('image/icon_insta.png') }}" id="icon-social">
                     </a>
                 </li>
                 <li class="nav-item me-2 me-lg-0">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" href="https://www.facebook.com/plenusgestaodetalentos?mibextid=LQQJ4d">
                         <img src="{{ asset('image/icon_face.png') }}" id="icon-social">
                     </a>
                 </li>
