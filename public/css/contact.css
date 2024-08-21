@@ -11,7 +11,7 @@
     flex-direction: row;
     background-size: cover;
     height: 1200px;
-    background-image: url(../image/fundo-top-home.png);
+    background-image: url(../image/contact.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     color: #fff;
@@ -61,7 +61,7 @@
 .home-section .btn-icon-card {
     padding: 10px 10px 10px 2px;
     border-radius: 4px 0 0 5px;
-    background-color: #551CAD;
+    background-color: #551cad;
     margin-left: -13px;
 }
 
@@ -110,7 +110,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.home-section .search-container input[type=text] {
+.home-section .search-container input[type="text"] {
     flex: 1;
     height: 70px;
     border: none;
@@ -121,7 +121,7 @@
 .home-section .search-container .search-button {
     height: 40px;
     width: 95px;
-    background-color: #551CAD;
+    background-color: #551cad;
     border: none;
     border-radius: 10px 10px 10px 10px;
     color: #fff;
@@ -175,15 +175,15 @@
 .home-section .container-content-cards .card-left {
     height: 375px;
     margin-bottom: 100px;
-    background-color: #9678C3;
-    border-color: #9678C3;
+    background-color: #9678c3;
+    border-color: #9678c3;
     box-shadow: 10px 10px 7px 3px rgba(0, 0, 0, 0.35);
 }
 
 .home-section .container-content-cards .card-center {
     height: 375px;
-    background-color: #551CAD;
-    border-color: #551CAD;
+    background-color: #551cad;
+    border-color: #551cad;
     margin-right: 30px;
     margin-left: 30px;
     margin-bottom: 30px;
@@ -193,8 +193,8 @@
 .home-section .container-content-cards .card-right {
     height: 375px;
     margin-bottom: 100px;
-    background-color: #9678C3;
-    border-color: #9678C3;
+    background-color: #9678c3;
+    border-color: #9678c3;
     box-shadow: 10px 10px 7px 3px rgba(0, 0, 0, 0.35);
 }
 
@@ -213,7 +213,7 @@
 
 .home-section .background-content-bottom {
     height: 100px;
-    background-color: #291F38;
+    background-color: #291f38;
     color: white;
     text-align: center;
     display: flex;
