@@ -29,7 +29,7 @@
                     <a class="nav-link" href="#">|</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="quemsomos">QUEM SOMOS</a>
+                    <a class="nav-link" href="quem-somos">QUEM SOMOS</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">|</a>
