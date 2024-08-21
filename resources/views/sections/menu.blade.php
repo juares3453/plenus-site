@@ -17,13 +17,13 @@
         <div class="navbar-collapse collapse flex-grow-2 justify-content-center" id="navbar5">
             <ul class="navbar-nav mx-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">INÍCIO</a>
+                    <a class="nav-link" href="inicio">INÍCIO</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">|</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">CONTATO</a>
+                    <a class="nav-link" href="contato">CONTATO</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">|</a>
@@ -35,7 +35,7 @@
                     <a class="nav-link" href="#">|</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">VAGAS</a>
+                    <a class="nav-link" href="vagas">VAGAS</a>
                 </li>
             </ul>
         </div>
