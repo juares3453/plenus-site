@@ -62,11 +62,6 @@
                         <img src="{{ asset('image/icon_face.png') }}" id="icon-social">
                     </a>
                 </li>
-                <li class="nav-item me-2 me-lg-0">
-                    <a class="nav-link" target="_blank" href="https://www.facebook.com/plenusgestaodetalentos?mibextid=LQQJ4d">
-                        <img src="{{ asset('image/icon_face.png') }}" id="icon-social">
-                    </a>
-                </li>
             </ul>
 
         </div>
