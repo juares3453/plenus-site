@@ -1,7 +1,7 @@
 <x-layout title="Plenus | Quem Somos">
 
     @push('styles')
-        <link rel="stylesheet" type="text/css" href="{{ asset('css/about.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ asset('/css/about.css') }}">
     @endpush
 
     <div class="home-section">
@@ -11,28 +11,19 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-1"></div>
                         <div class="col-lg-7 col-md-7 col-sm-12">
-                            <div class="card" id="card">
-                                <div class="card-body">
-                                    <h5 class="card-title">PLENUS GESTÃO DE TALENTOS</h5>
-                                    <p class="card-text">Constituída em 17 de maio de 2020, com o propósito de
-                                        prestar serviço diferenciado, tem como foco atender as empresas com agilidade,
-                                        desenvolvendo e qualificando o mercado de trabalho, através da contratação de
-                                        profissionas efetivos, treinamento e consultoria em Recursos Humanos.</p>
+                                    <p class="card-text">A PLENUS GESTÃO DE TALENTOS, foi constituída em 17 de meio de 2020, com o propósito
+                                        de prestar serviço diferenciado, "encontrar a pessoa certa, na hora certa, para o local certo", e
+                                        tem como foco atender as empresas com agilidade, desenvolvendo e qualificando o mercado de trabalho,
+                                        através de contratação de profissionais efetivos.</p>
                                     <div class="row">
                                         <div class="col-lg-9 col-md-1 col-sm-1">
                                         </div>
                                         <div class="col-lg-3 col-md-11 col-sm-11">
-                                            <button type="submit" class="btn btn-custom-card">
-                                                <span class="btn-icon-card"><i class="fa fa-plus"></i></span>
-                                                Saiba mais
-                                            </button>
+
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
-                        </div>
-                    </div>
                     <div class="col-lg-2 col-md-2 col-sm-2"></div>
                 </div>
             </div>
