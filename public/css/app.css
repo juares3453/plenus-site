@@ -42,7 +42,7 @@ footer,
 
 .footer-container {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 5px auto;
     padding: var(--footer-padding) 0;
 }
 
@@ -55,8 +55,14 @@ footer,
 
 .footer-info {
     margin-bottom: var(--footer-margin-bottom);
+    margin: 5px;
 }
 
 .footer-info p {
     margin: 0;
+}
+
+.footer-icon {
+    margin: 15px 15px;
+    gap: 20px;
 }

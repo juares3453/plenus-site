@@ -4,42 +4,32 @@
         <link rel="stylesheet" type="text/css" href="{{ asset('/css/about.css') }}">
     @endpush
 
-    <div class="home-section">
+    <div class="about-section">
         <div class="row" id="general-content">
             <div class="container-fluid" id="img-fundo-top">
-                <div id="bottom-content">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-4 col-sm-1"></div>
-                        <div class="col-lg-7 col-md-7 col-sm-12">
-                                    <p class="card-text">A PLENUS GESTÃO DE TALENTOS, foi constituída em 17 de meio de 2020, com o propósito
-                                        de prestar serviço diferenciado, "encontrar a pessoa certa, na hora certa, para o local certo", e
-                                        tem como foco atender as empresas com agilidade, desenvolvendo e qualificando o mercado de trabalho,
-                                        através de contratação de profissionais efetivos.</p>
-                                    <div class="row">
-                                        <div class="col-lg-9 col-md-1 col-sm-1">
-                                        </div>
-                                        <div class="col-lg-3 col-md-11 col-sm-11">
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                    <div class="col-lg-2 col-md-2 col-sm-2"></div>
-                </div>
+                <h1>QUEM SOMOS</h1>
             </div>
-
-            <div class="container-fluid" id="content-bottom-bar">
                 <div class="row">
-                    <div class="col-2 img-arrow-bottom"></div>
-                    <div class="col-10 background-content-bottom">
-                        <p>Clique aqui e cadastre seu currículo</p>
+                <div class="col-lg-5 col-md-5 col-sm-1" id="img-lateral-top"></div>
+                <div class="col-lg-6 col-md-6 col-sm-1">
+                        <p class="text-about">A PLENUS GESTÃO DE TALENTOS, foi constituída em 17 de meio de 2020, com o propósito
+                            de prestar serviço diferenciado, "encontrar a pessoa certa, na hora certa, para o local certo", e
+                            tem como foco atender as empresas com agilidade, desenvolvendo e qualificando o mercado de trabalho,
+                            através de contratação de profissionais efetivos, treinamento e consultoria em Recursos Humanos.
+                        </p>
+
+                        <p class="text-about">A sócia proprietária Vânia B. Masutti Canalle, com vivência de 30
+                            anos em Recrutamento e Seleção, gestão de pessoas, implantação e desenvolvimento de projetos em
+                            Recursos Humanos, desenvolveu seu trabalho em diversos segmentos, contribuindo para o desenvolvimento
+                            e crescimento organizacional em grandes e renomadas empresas da região serrana.
+                        </p>
+
+                        <p class="text-about">É Graduada em Administração com Ênfase em Recursos Humanos, atualmente é acadêmico no curso de Psicologia, assim,
+                            atua diretamente na gestão de todos os processos na Gestão de Talentos.
+                        </p>
                     </div>
                 </div>
-            </div>
-
         </div>
     </div>
-
-
 
 </x-layout>

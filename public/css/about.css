@@ -1,4 +1,4 @@
-.home-section #general-content {
+.about-section #general-content {
     max-width: 1920px;
     padding-right: 0px;
     padding-left: 0px;
@@ -6,7 +6,7 @@
     margin-left: auto;
 }
 
-.home-section #img-fundo-top {
+.about-section #img-fundo-top {
     display: flex;
     flex-direction: row;
     background-size: cover;
@@ -17,7 +17,31 @@
     color: #fff;
 }
 
-.home-section #card {
+.about-section #img-lateral-top {
+    display: flex;
+    flex-direction: row;
+    background-size: cover;
+    border-radius: 10%;
+    margin: 10px;
+    height: 700px;
+    background-image: url(../image/quem-somos.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: #fff;
+}
+
+.about-section .text-about {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: justify;
+    color: black;
+    max-height: 200px;
+    overflow: auto;
+}
+
+.about-section #card {
     height: 420px;
     background-color: #303058;
     border-radius: 0px;
@@ -28,7 +52,7 @@
     box-shadow: 10px 10px 7px 3px rgba(0, 0, 0, 0.35);
 }
 
-.home-section #card p {
+.about-section #card p {
     font-size: 24px;
     margin-top: 30px;
     margin-left: 15px;
@@ -39,39 +63,39 @@
     overflow: auto;
 }
 
-.home-section #card h5 {
+.about-section #card h5 {
     margin-top: 30px;
     font-size: 36px;
     color: white;
     text-align: center;
 }
 
-.home-section #bottom-content {
+.about-section #bottom-content {
     flex: 1;
     align-self: flex-end;
 }
 
-.home-section .btn-custom-card {
+.about-section .btn-custom-card {
     background-color: white !important;
     border-color: white !important;
     color: rgba(50, 40, 91, 1) !important;
     font-weight: bold !important;
 }
 
-.home-section .btn-icon-card {
+.about-section .btn-icon-card {
     padding: 10px 10px 10px 2px;
     border-radius: 4px 0 0 5px;
     background-color: #551cad;
     margin-left: -13px;
 }
 
-.home-section .fa-plus {
+.about-section .fa-plus {
     color: white !important;
     margin-left: 10px;
     font-size: 18px !important;
 }
 
-.home-section #img-fundo-center {
+.about-section #img-fundo-center {
     background-size: cover;
     height: 850px;
     background-image: url(../image/fundo-center-home.png);
@@ -80,12 +104,12 @@
     color: #fff;
 }
 
-.home-section #titulo-fundo-center {
+.about-section #titulo-fundo-center {
     font-size: 30px;
     margin-top: 70px;
 }
 
-.home-section #center-content {
+.about-section #center-content {
     max-width: 1920px;
     padding-right: 0px;
     padding-left: 0px;
@@ -93,24 +117,24 @@
     margin-left: auto;
 }
 
-.home-section #titulo-fundo-center {
+.about-section #titulo-fundo-center {
     margin-bottom: 40px;
     margin-top: 60px;
 }
 
-.home-section form {
+.about-section form {
     margin: 0px !important;
     padding: 0px !important;
 }
 
-.home-section .search-container {
+.about-section .search-container {
     display: flex;
     align-items: center;
     background-color: #fff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.home-section .search-container input[type="text"] {
+.about-section .search-container input[type="text"] {
     flex: 1;
     height: 70px;
     border: none;
@@ -118,7 +142,7 @@
     font-size: 16px;
 }
 
-.home-section .search-container .search-button {
+.about-section .search-container .search-button {
     height: 40px;
     width: 95px;
     background-color: #551cad;
@@ -132,18 +156,18 @@
     font-weight: bold;
 }
 
-.home-section .input-group-text {
+.about-section .input-group-text {
     font-size: 16px !important;
     border-radius: 0px !important;
 }
 
-.home-section .container-img-fundo-center {
+.about-section .container-img-fundo-center {
     display: flex;
     align-items: center;
     margin: 0px;
 }
 
-.home-section .container-img-fundo-center img {
+.about-section .container-img-fundo-center img {
     width: 380px;
     height: 500px;
     margin-top: 39px;
@@ -151,7 +175,7 @@
     clip-path: inset(0px 0px 15px 0px);
 }
 
-.home-section .container-content-cards {
+.about-section .container-content-cards {
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -162,7 +186,7 @@
     margin-bottom: 95px;
 }
 
-.home-section .container-content-cards .card {
+.about-section .container-content-cards .card {
     width: 25%;
     transition: all 0.2s ease-in-out;
     display: flex;
@@ -172,7 +196,7 @@
     flex-shrink: 1;
 }
 
-.home-section .container-content-cards .card-left {
+.about-section .container-content-cards .card-left {
     height: 375px;
     margin-bottom: 100px;
     background-color: #9678c3;
@@ -180,7 +204,7 @@
     box-shadow: 10px 10px 7px 3px rgba(0, 0, 0, 0.35);
 }
 
-.home-section .container-content-cards .card-center {
+.about-section .container-content-cards .card-center {
     height: 375px;
     background-color: #551cad;
     border-color: #551cad;
@@ -190,7 +214,7 @@
     box-shadow: 10px 10px 7px 3px rgba(0, 0, 0, 0.35);
 }
 
-.home-section .container-content-cards .card-right {
+.about-section .container-content-cards .card-right {
     height: 375px;
     margin-bottom: 100px;
     background-color: #9678c3;
@@ -198,7 +222,7 @@
     box-shadow: 10px 10px 7px 3px rgba(0, 0, 0, 0.35);
 }
 
-.home-section .container-content-cards .card p {
+.about-section .container-content-cards .card p {
     max-width: 250px;
     margin: auto;
     text-align: center;
@@ -206,12 +230,12 @@
     font-size: 26px;
 }
 
-.home-section .container-content-cards .card:hover {
+.about-section .container-content-cards .card:hover {
     width: 26%;
     height: 378px;
 }
 
-.home-section .background-content-bottom {
+.about-section .background-content-bottom {
     height: 100px;
     background-color: #291f38;
     color: white;
@@ -222,7 +246,7 @@
     font-size: 26px;
 }
 
-.home-section .img-arrow-bottom {
+.about-section .img-arrow-bottom {
     height: 150px;
     background-color: white;
     background-image: url(../image/click-here.png);
@@ -236,11 +260,11 @@
     top: -25px;
 }
 
-.home-section .background-content-bottom p {
+.about-section .background-content-bottom p {
     margin: 0;
 }
 
-.home-section .img-right-corner {
+.about-section .img-right-corner {
     position: absolute;
     bottom: 10px;
     right: 10px;
@@ -249,54 +273,54 @@
     z-index: 1;
 }
 
-.home-section #content-bottom-bar {
+.about-section #content-bottom-bar {
     margin-bottom: 90px;
 }
 
 @media screen and (min-width: 768px) {
-    .home-section #bottom-content {
+    .about-section #bottom-content {
         margin-bottom: 100px;
     }
 }
 
 @media screen and (min-width: 1400px) {
-    .home-section #bottom-content {
+    .about-section #bottom-content {
         margin-bottom: 60px;
     }
 
-    .home-section #img-fundo-top {
+    .about-section #img-fundo-top {
         margin-bottom: 50px;
     }
 }
 
 @media screen and (min-width: 1600px) {
-    .home-section #bottom-content {
+    .about-section #bottom-content {
         margin-bottom: 120px;
     }
 
-    .home-section #img-fundo-top {
+    .about-section #img-fundo-top {
         margin-bottom: 50px;
         height: 1400px;
     }
 }
 
 @media screen and (min-width: 1800px) {
-    .home-section #bottom-content {
+    .about-section #bottom-content {
         margin-bottom: 90px;
     }
 
-    .home-section #img-fundo-top {
+    .about-section #img-fundo-top {
         margin-bottom: 50px;
         height: 1400px;
     }
 }
 
 @media screen and (min-width: 2000px) {
-    .home-section #bottom-content {
+    .about-section #bottom-content {
         margin-bottom: 80px;
     }
 
-    .home-section #img-fundo-top {
+    .about-section #img-fundo-top {
         margin-bottom: 50px;
         height: 1400px;
     }
