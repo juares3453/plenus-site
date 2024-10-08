@@ -11,7 +11,7 @@
     flex-direction: row;
     background-size: cover;
     height: 1200px;
-    background-image: url(../image/quem-somos1.jpeg);
+    background-image: url(../image/quem-somos.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     color: #fff;
@@ -24,7 +24,7 @@
     border-radius: 10%;
     margin: 10px;
     height: 700px;
-    background-image: url(../image/quem-somos.jpg);
+    background-image: url(../image/quem-somos1.jpeg);
     background-repeat: no-repeat;
     background-position: center center;
     color: #fff;
