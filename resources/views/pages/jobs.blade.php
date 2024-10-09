@@ -14,6 +14,14 @@
                         <br>
                         <br>
                         <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
                         <div class="col-lg-7 col-md-7 col-sm-12">
                             <div class="card" id="card">
                                 <div class="card-body">
