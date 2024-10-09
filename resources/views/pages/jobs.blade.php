@@ -4,24 +4,24 @@
         <link rel="stylesheet" type="text/css" href="{{ asset('css/jobs.css') }}">
     @endpush
 
+    <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
     <div class="home-section">
         <div class="row" id="general-content">
             <div class="container-fluid" id="img-fundo-top">
                 <div id="bottom-content">
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-1"></div>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
                         <div class="col-lg-7 col-md-7 col-sm-12">
                             <div class="card" id="card">
                                 <div class="card-body">
