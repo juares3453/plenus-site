@@ -4,18 +4,6 @@
         <link rel="stylesheet" type="text/css" href="{{ asset('css/jobs.css') }}">
     @endpush
 
-    <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
     <div class="home-section">
         <div class="row" id="general-content">
             <div class="container-fluid" id="img-fundo-top">

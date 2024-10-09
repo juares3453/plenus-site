@@ -10,7 +10,7 @@
     display: flex;
     flex-direction: row;
     background-size: cover;
-    height: 1200px;
+    height: 1000px;
     background-image: url(../image/jobs.jpg);
     background-repeat: no-repeat;
     background-position: center center;
