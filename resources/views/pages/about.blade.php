@@ -7,7 +7,7 @@
     <div class="about-section">
         <div class="row" id="general-content">
             <div class="container-fluid" id="img-fundo-top">
-                <h1>QUEM SOMOS</h1>
+                <p id="image-title">QUEM SOMOS</p>
             </div>
                 <div class="row">
                 <div class="col-lg-5 col-md-5 col-sm-1" id="img-lateral-top"></div>

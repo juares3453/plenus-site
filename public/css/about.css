@@ -17,12 +17,21 @@
     color: #fff;
 }
 
+.about-section #image-title {
+    margin-top: 1200px;
+    font-size: 40px; /* ajuste conforme necessário */
+    font-style: italic;
+    color: #ffffff; /* ajuste de cor */
+    text-shadow: 2px 4px 10px #000;
+    padding: 2%;
+}
+
 .about-section #img-lateral-top {
     display: flex;
     flex-direction: row;
     background-size: cover;
     border-radius: 10%;
-    margin: 10px;
+    margin: 30px;
     height: 700px;
     background-image: url(../image/quem-somos1.jpeg);
     background-repeat: no-repeat;
